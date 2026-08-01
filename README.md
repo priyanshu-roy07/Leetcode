@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0009-palindrome-number) |
+| [0486-predict-the-winner](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,9 +47,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0486-predict-the-winner](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0486-predict-the-winner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -74,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
