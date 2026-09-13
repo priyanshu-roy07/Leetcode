@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
