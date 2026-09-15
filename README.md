@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/1563-stone-game-v) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Array
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyanshu-roy07/https-github.com-priyanshu-roy07-Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
